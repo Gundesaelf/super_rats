@@ -2,7 +2,7 @@
 
 A Giant Rat Genetic Algorithm Simulation
 
-This Python program simulates the evolution of a population of rats toward a target average weight using a simple genetic algorithm. It is inspired by the exercises in *Impractical Python Projects*.
+This Python program simulates the evolution of a population of rats toward a target average weight using a simple genetic algorithm.
 
 ## Features
 
